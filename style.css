@@ -1,7 +1,7 @@
 body {background-color:white; text-align: justify;}
 h1 {  text-align: center;background-color: black ;color: white} 
 h3 { text-align: justify;color:white;}
-b{color: gold; font-size: 18px;}
+b{color:white; font-size: 18px;}
 i  {color: black;font-size: 19px;}
 header, footer{background-color: gray;text-align: center;}
-main {background-color: whitesmoke;}
+main {background-color: gray;}
